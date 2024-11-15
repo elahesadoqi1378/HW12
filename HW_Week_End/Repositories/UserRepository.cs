@@ -38,5 +38,10 @@ namespace HW_Week12_End.Repositories
             }
 
         }
+        public bool CheckUserExist(string username)
+        {
+            var input = appDBContext.Users.Any(x => x.UserName == username);
+            return input;
+        }
     }
 }

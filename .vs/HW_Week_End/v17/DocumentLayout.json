@@ -3,44 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\ARYA\\source\\repos\\HW_Week_End\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|c:\\users\\arya\\source\\repos\\hw_week_end\\hw_week_end\\repositories\\dutyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|solutionrelative:hw_week_end\\repositories\\dutyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|c:\\users\\arya\\source\\repos\\hw_week_end\\hw_week_end\\services\\dutyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|solutionrelative:hw_week_end\\services\\dutyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|c:\\users\\arya\\source\\repos\\hw_week_end\\hw_week_end\\entties\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|solutionrelative:hw_week_end\\entties\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|c:\\users\\arya\\source\\repos\\hw_week_end\\hw_week_end\\migrations\\20241114181310_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|solutionrelative:hw_week_end\\migrations\\20241114181310_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|c:\\users\\arya\\source\\repos\\hw_week_end\\hw_week_end\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|solutionrelative:hw_week_end\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|c:\\users\\arya\\source\\repos\\hw_week_end\\hw_week_end\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|solutionrelative:hw_week_end\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|c:\\users\\arya\\source\\repos\\hw_week_end\\hw_week_end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|solutionrelative:hw_week_end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|c:\\users\\arya\\source\\repos\\hw_week_end\\hw_week_end\\entties\\duty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|solutionrelative:hw_week_end\\entties\\duty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|c:\\users\\arya\\source\\repos\\hw_week_end\\hw_week_end\\services\\dutyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|solutionrelative:hw_week_end\\services\\dutyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|c:\\users\\arya\\source\\repos\\hw_week_end\\hw_week_end\\contracts\\idutyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|solutionrelative:hw_week_end\\contracts\\idutyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|c:\\users\\arya\\source\\repos\\hw_week_end\\hw_week_end\\repositories\\dutyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|solutionrelative:hw_week_end\\repositories\\dutyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|c:\\users\\arya\\source\\repos\\hw_week_end\\hw_week_end\\entties\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|solutionrelative:hw_week_end\\entties\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|c:\\users\\arya\\source\\repos\\hw_week_end\\hw_week_end\\entties\\duty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|solutionrelative:hw_week_end\\entties\\duty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|c:\\users\\arya\\source\\repos\\hw_week_end\\hw_week_end\\contracts\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|solutionrelative:hw_week_end\\contracts\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|c:\\users\\arya\\source\\repos\\hw_week_end\\hw_week_end\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|solutionrelative:hw_week_end\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|c:\\users\\arya\\source\\repos\\hw_week_end\\hw_week_end\\contracts\\idutyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|solutionrelative:hw_week_end\\contracts\\idutyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B4F8A78-BD95-40CC-A6E6-59531EE1B11D}|HW_Week_End\\HW_Week12_End.csproj|c:\\users\\arya\\source\\repos\\hw_week_end\\hw_week_end\\repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,100 +54,89 @@
       "DocumentGroups": [
         {
           "DockedHeight": 289,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week_End\\HW_Week_End\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "HW_Week_End\\Services\\UserService.cs",
               "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week_End\\HW_Week_End\\Services\\UserService.cs",
               "RelativeToolTip": "HW_Week_End\\Services\\UserService.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwCYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwBwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T18:44:45.251Z"
+              "WhenOpened": "2024-11-14T18:44:45.251Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week_End\\HW_Week_End\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "HW_Week_End\\Repositories\\UserRepository.cs",
               "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week_End\\HW_Week_End\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "HW_Week_End\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T18:28:40.71Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week_End\\HW_Week_End\\Contracts\\IUserRepository.cs",
               "RelativeDocumentMoniker": "HW_Week_End\\Contracts\\IUserRepository.cs",
               "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week_End\\HW_Week_End\\Contracts\\IUserRepository.cs",
               "RelativeToolTip": "HW_Week_End\\Contracts\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T18:26:49.645Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20241114181310_init2.cs",
-              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week_End\\HW_Week_End\\Migrations\\20241114181310_init2.cs",
-              "RelativeDocumentMoniker": "HW_Week_End\\Migrations\\20241114181310_init2.cs",
-              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week_End\\HW_Week_End\\Migrations\\20241114181310_init2.cs",
-              "RelativeToolTip": "HW_Week_End\\Migrations\\20241114181310_init2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T18:13:10.56Z",
+              "WhenOpened": "2024-11-14T18:26:49.645Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week_End\\HW_Week_End\\Entties\\User.cs",
               "RelativeDocumentMoniker": "HW_Week_End\\Entties\\User.cs",
               "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week_End\\HW_Week_End\\Entties\\User.cs",
               "RelativeToolTip": "HW_Week_End\\Entties\\User.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T18:08:39.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DutyService.cs",
               "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week_End\\HW_Week_End\\Services\\DutyService.cs",
               "RelativeDocumentMoniker": "HW_Week_End\\Services\\DutyService.cs",
               "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week_End\\HW_Week_End\\Services\\DutyService.cs",
               "RelativeToolTip": "HW_Week_End\\Services\\DutyService.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwB0AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T17:57:15.089Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "DutyRepository.cs",
               "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week_End\\HW_Week_End\\Repositories\\DutyRepository.cs",
               "RelativeDocumentMoniker": "HW_Week_End\\Repositories\\DutyRepository.cs",
               "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week_End\\HW_Week_End\\Repositories\\DutyRepository.cs",
               "RelativeToolTip": "HW_Week_End\\Repositories\\DutyRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAuwBoAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAA9wE0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T21:52:53.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IDutyRepository.cs",
               "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week_End\\HW_Week_End\\Contracts\\IDutyRepository.cs",
               "RelativeDocumentMoniker": "HW_Week_End\\Contracts\\IDutyRepository.cs",
@@ -164,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "AppDBContext.cs",
               "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week_End\\HW_Week_End\\Repositories\\AppDBContext.cs",
               "RelativeDocumentMoniker": "HW_Week_End\\Repositories\\AppDBContext.cs",
@@ -172,11 +157,12 @@
               "RelativeToolTip": "HW_Week_End\\Repositories\\AppDBContext.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAcwBYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T23:58:06.388Z"
+              "WhenOpened": "2024-11-10T23:58:06.388Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "State.cs",
               "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week_End\\HW_Week_End\\Enums\\State.cs",
               "RelativeDocumentMoniker": "HW_Week_End\\Enums\\State.cs",
@@ -184,7 +170,8 @@
               "RelativeToolTip": "HW_Week_End\\Enums\\State.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T23:56:25.726Z"
+              "WhenOpened": "2024-11-10T23:56:25.726Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -194,20 +181,20 @@
               "RelativeDocumentMoniker": "HW_Week_End\\Entties\\Duty.cs",
               "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week_End\\HW_Week_End\\Entties\\Duty.cs",
               "RelativeToolTip": "HW_Week_End\\Entties\\Duty.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T23:55:25.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week_End\\HW_Week_End\\Program.cs",
               "RelativeDocumentMoniker": "HW_Week_End\\Program.cs",
               "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week_End\\HW_Week_End\\Program.cs",
               "RelativeToolTip": "HW_Week_End\\Program.cs",
-              "ViewState": "AgIAACIBAAAAAAAAAAAkwDwBAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAkwI0AAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T23:54:55.595Z",
               "EditorCaption": ""

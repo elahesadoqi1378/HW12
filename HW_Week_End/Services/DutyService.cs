@@ -32,7 +32,7 @@ namespace HW_Week12_End.Services
             dutyRepository.Create(duty);
         }
 
-        public List<Duty> GetAllTasks( User loggedInUser)
+        public List<Duty> GetAllTasks()
         {
             return dutyRepository.GetAll();
         }
@@ -52,7 +52,7 @@ namespace HW_Week12_End.Services
             dutyRepository.Delete(id);
         }
 
-        public Duty SearchTaskByTitle(string title , User loggedInUser)
+        public Duty SearchTaskByTitle(string title )
         {
             return dutyRepository.FindDuty(title);
         }

@@ -128,3 +128,4 @@ C:\Users\ARYA\source\repos\HW_Week_End\HW_Week_End\obj\Debug\net8.0\refint\HW_We
 C:\Users\ARYA\source\repos\HW_Week_End\HW_Week_End\obj\Debug\net8.0\HW_Week12_End.pdb
 C:\Users\ARYA\source\repos\HW_Week_End\HW_Week_End\obj\Debug\net8.0\HW_Week12_End.genruntimeconfig.cache
 C:\Users\ARYA\source\repos\HW_Week_End\HW_Week_End\obj\Debug\net8.0\ref\HW_Week12_End.dll
+C:\Users\ARYA\source\repos\HW_Week_End\HW_Week_End\obj\Debug\net8.0\HW_Week12_End.sourcelink.json

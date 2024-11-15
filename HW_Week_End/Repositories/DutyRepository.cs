@@ -44,7 +44,6 @@ namespace HW_Week12_End.Repositories
             dutyToEdit.State = d.State;
             dutyToEdit.Priority = d.Priority;
             dutyToEdit.TimeToDone = d.TimeToDone;
-            //appDBContext.Duties.Update(d);
             appDBContext.SaveChanges(); 
         }
         public void Delete(int id)
@@ -78,7 +77,7 @@ namespace HW_Week12_End.Repositories
             {
                 throw new Exception("can not find duty with id " + duty.Id);
             }
-           // return appDBContext.Duties.Find(id);
+          
         }
 
       
